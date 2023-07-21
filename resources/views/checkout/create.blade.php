@@ -1,3 +1,4 @@
+{{-- Setting git global --}}
 @extends('layouts.app')
 
 @section('content')
